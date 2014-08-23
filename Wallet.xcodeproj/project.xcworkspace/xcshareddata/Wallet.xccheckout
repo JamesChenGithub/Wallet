@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AA22F1B8-8B6C-462A-9EBC-4363C487687C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Wallet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1031701C-AA70-44E4-B96D-AAFB866DEEA9</key>
+		<string>file:///Users/James/SVNRoot/MACSVN/Wallet</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Wallet/Wallet.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1031701C-AA70-44E4-B96D-AAFB866DEEA9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1031701C-AA70-44E4-B96D-AAFB866DEEA9</key>
+		<string>file:///Users/James/SVNRoot/MACSVN/Wallet</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>file:///Users/James/SVNRoot/MACSVN/Wallet/Wallet/Wallet.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1031701C-AA70-44E4-B96D-AAFB866DEEA9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1031701C-AA70-44E4-B96D-AAFB866DEEA9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Wallet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
